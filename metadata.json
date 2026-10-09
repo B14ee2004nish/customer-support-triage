@@ -1,0 +1,6 @@
+{
+  "name": "Customer Support Ticket Triage System",
+  "description": "AI-powered automated triage and human-in-the-loop review system for customer support tickets using Gemini and Supabase.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
